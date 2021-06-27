@@ -1,0 +1,38 @@
+.central{
+    text-align: center;
+}
+
+.corlogin{
+    background-color: rgb(107, 214, 74) !important;
+    color: white !important;
+}
+.bt-edit{
+    background-color: rgb(52, 184, 35) !important;
+    color: white !important;
+}
+
+.bt-del{
+    background-color: rgb(48, 77, 109) !important;
+    color: white !important;
+}
+
+.bt-ent{
+    background-color: rgb(107, 214, 74) !important;
+    color: white !important;
+}
+
+.bt-cad{
+    background-color: rgb(107, 214, 74) !important;
+    color: white !important;
+}
+
+
+.bt-cancelar{
+    background-color: rgb(107, 214, 74) !important;
+    color: white !important;
+}
+
+.espaco{
+    margin-right: 10px !important;
+}
+
